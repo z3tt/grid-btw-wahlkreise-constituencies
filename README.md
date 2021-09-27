@@ -6,6 +6,8 @@ Designt von Cédric Scherer und Ansgar Wolsing. Über einen Credit würden wir u
 *Manually created Grid Tile Map of Germany's electoral districts for free use.*  
 *Designed by Cédric Scherer and Ansgar Wolsing. We would be happy about a credit.*
 
+![](https://raw.githubusercontent.com/bydata/btw_tilemap/main/plots/grid_laender_de.png)
+
 #
 
 ### Warum eine Grid Tile Map?
