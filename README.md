@@ -17,12 +17,12 @@ In unserer Tile Grid Map ist jeder Wahlkreis gleich groß und die Wahrnehmung is
 
 Ebenfalls ist eine [Hexbin Map via PitchInteractive](https://pitchinteractiveinc.github.io/tilegrams/) verfügbar, allerdings sind wir mit der Form Deutschlands und der Lage einiger Wahlkreise nicht zufrieden. In unserer Tile Grid Karte haben wir größte Sorgfalt darauf gelegt, die räumlichen Verhältnisse so gut es geht einzuhalten. 
 
-### Why a tile grid map?
+### *Why a tile grid map?*
 
-Constituencies are designed to contain roughly the same number of people. On a traditional map, however, the area is visualized, not the number of people voting or elected. Thus, traditional choropleth maps distort perception by providing rural areas with low population density much larger areas of color than urban areas.  
-In our Tile Grid Map, each constituency is the same size and the perception is thus uniform. This makes it possible to show results and trends in urban regions without any problems.
+*Constituencies are designed to contain roughly the same number of people. On a traditional map, however, the area is visualized, not the number of people voting or elected. Thus, traditional choropleth maps distort perception by providing rural areas with low population density much larger areas of color than urban areas.  
+In our Tile Grid Map, each constituency is the same size and the perception is thus uniform. This makes it possible to show results and trends in urban regions without any problems.*
 
-Also available is a [hexbin map via PitchInteractive](https://pitchinteractiveinc.github.io/tilegrams/), but we were not happy with the shape of Germany and the location of some constituencies. In our tile grid map, we have taken great care to keep the spatial relationships as close as possible. 
+*There is also a [hexbin map via PitchInteractive](https://pitchinteractiveinc.github.io/tilegrams/) available, but we were not happy with the shape of Germany and the location of some constituencies. In our tile grid map, we have taken great care to keep the spatial relationships as close as possible.*
 
 #
 
