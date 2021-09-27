@@ -6,7 +6,8 @@ Designt von Cédric Scherer und Ansgar Wolsing. Im Fall der Nutzung würden wir 
 *Manually created tile grid map (or geo grid) of Germany's electoral districts for free use.*  
 *Designed by Cédric Scherer and Ansgar Wolsing. In case of use we would appreciate a credit.*
 
-![](https://raw.githubusercontent.com/bydata/btw_tilemap/main/plots/grid_laender_variants.png)
+![](https://raw.githubusercontent.com/bydata/btw_tilemap/main/plots/grid_laender_variants_de.png)
+![](https://raw.githubusercontent.com/bydata/btw_tilemap/main/plots/grid_laender_variants_en.png)
 
 #
 
