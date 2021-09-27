@@ -31,8 +31,8 @@ In our Tile Grid Map, each constituency is the same size and the perception is t
 | Variable  | Beschreibung | Description |
 | --- | --- | --- |
 | `wk_full`  | Kompletter Name des Wahlkreises  | Full name of the constituency |
-| `wk`  | Name des Wahlkreises ohne ID  | Name of the constituency without ID |
-| `id` | ID des Wahlkreises | Constituency ID |
+| `wk`  | Name des Wahlkreises ohne Nummer  | Name of the constituency without ID |
+| `id` | Wahlkreis-Nummer | Constituency ID |
 | `bundesland_de` | Deutscher Name des Bundeslandes | German name of the federal state |
 | `bundesland_en` | Englischer Name des Bundeslandes | English name of the federal state |
 | `col` | x-Koordinate | x position |
