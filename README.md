@@ -1,10 +1,10 @@
 #  Tile Grid Map of the 299 Constituencies of Germany 
 
 Manuell erstellte Kachelkarte (*Tile Grid Map* oder *Geo Grid*) der Wahlkreise Deutschlands zur freien Nutzung.  
-Designt von Cédric Scherer und Ansgar Wolsing. Über einen Credit würden wir uns freuen.
+Designt von Cédric Scherer und Ansgar Wolsing. Im Fall der Nutzung würden wir uns über einen Credit freuen.
 
 *Manually created tile grid map (or geo grid) of Germany's electoral districts for free use.*  
-*Designed by Cédric Scherer and Ansgar Wolsing. We would be happy about a credit.*
+*Designed by Cédric Scherer and Ansgar Wolsing. In case of use we would appreciate a credit.*
 
 ![](https://raw.githubusercontent.com/bydata/btw_tilemap/main/plots/grid_laender_variants.png)
 
