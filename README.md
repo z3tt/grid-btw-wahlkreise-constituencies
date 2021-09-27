@@ -19,6 +19,7 @@ In our Grid Tile Map, each constituency is the same size and the perception is s
 
 Also available is a [hexbin map via PitchInteractive](https://pitchinteractiveinc.github.io/tilegrams/), but we were not happy with the shape of Germany and the location of some constituencies. In our grid tile map, we have taken great care to keep the spatial relationships as close as possible. 
 
+## Glossaary
 
 | Variable  | Beschreibung | Descirption |
 | --- | --- | --- |
@@ -29,3 +30,8 @@ Also available is a [hexbin map via PitchInteractive](https://pitchinteractivein
 | `bundesland_en` | Englischer Name des Bundeslandes | English name of the federal state |
 | `col` | x-Koordinate | x position |
 | `row` | y-Koordinate | y position |
+
+## Tools
+
+Erstellt mit Hilfe des [Geo Grid Designer](https://hafen.github.io/grid-designer/) von Ryan Hafen und R.   
+*Created using [Geo Grid Designer](https://hafen.github.io/grid-designer/) by Ryan Hafen and R.*
