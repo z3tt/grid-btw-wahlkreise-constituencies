@@ -28,7 +28,7 @@ In our Tile Grid Map, each constituency is the same size and the perception is t
 
 ### Glossary
 
-| Variable  | Beschreibung | Descirption |
+| Variable  | Beschreibung | Description |
 | --- | --- | --- |
 | `wk_full`  | Kompletter Name des Wahlkreises  | Full name of the constituency |
 | `wk`  | Name des Wahlkreises ohne ID  | Name of the constituency without ID |
