@@ -1,0 +1,300 @@
+Wahlkreisname,row,col,id,id_num,wk,land
+001 Flensburg – Schleswig,1,11,001,1,Flensburg – Schleswig,Schleswig-Holstein
+002 Nordfriesland – Dithmarschen Nord,1,10,002,2,Nordfriesland – Dithmarschen Nord,Schleswig-Holstein
+003 Steinburg – Dithmarschen Süd,2,10,003,3,Steinburg – Dithmarschen Süd,Schleswig-Holstein
+004 Rendsburg-Eckernförde,2,11,004,4,Rendsburg-Eckernförde,Schleswig-Holstein
+005 Kiel,2,12,005,5,Kiel,Schleswig-Holstein
+037 Lüchow-Dannenberg – Lüneburg,6,13,037,37,Lüchow-Dannenberg – Lüneburg,Niedersachsen
+006 Plön – Neumünster,3,12,006,6,Plön – Neumünster,Schleswig-Holstein
+009 Ostholstein – Stormarn-Nord,3,13,009,9,Ostholstein – Stormarn-Nord,Schleswig-Holstein
+007 Pinneberg,3,11,007,7,Pinneberg,Schleswig-Holstein
+026 Friesland – Wilhelmshaven – Wittmund,3,7,026,26,Friesland – Wilhelmshaven – Wittmund,Niedersachsen
+029 Cuxhaven – Stade II,3,10,029,29,Cuxhaven – Stade II,Niedersachsen
+024 Aurich – Emden,3,6,024,24,Aurich – Emden,Niedersachsen
+011 Lübeck,4,14,011,11,Lübeck,Schleswig-Holstein
+008 Segeberg – Stormarn-Mitte,4,13,008,8,Segeberg – Stormarn-Mitte,Schleswig-Holstein
+027 Oldenburg – Ammerland,4,7,027,27,Oldenburg – Ammerland,Niedersachsen
+028 Delmenhorst – Wesermarsch – Oldenburg-Land,4,8,028,28,Delmenhorst – Wesermarsch – Oldenburg-Land,Niedersachsen
+030 Stade I – Rotenburg II,4,9,030,30,Stade I – Rotenburg II,Niedersachsen
+021 Hamburg-Nord,4,11,021,21,Hamburg-Nord,Hamburg
+022 Hamburg-Wandsbek,4,12,022,22,Hamburg-Wandsbek,Hamburg
+014 Rostock – Landkreis Rostock II,4,15,014,14,Rostock – Landkreis Rostock II,Mecklenburg-Vorpommern
+015 Vorpommern-Rügen – Vorpommern-Greifswald I,4,16,015,15,Vorpommern-Rügen – Vorpommern-Greifswald I,Mecklenburg-Vorpommern
+025 Unterems,4,6,025,25,Unterems,Niedersachsen
+034 Osterholz – Verden,4,10,034,34,Osterholz – Verden,Niedersachsen
+036 Harburg,5,10,036,36,Harburg,Niedersachsen
+020 Hamburg-Eimsbüttel,5,11,020,20,Hamburg-Eimsbüttel,Hamburg
+010 Herzogtum Lauenburg – Stormarn-Süd,5,14,010,10,Herzogtum Lauenburg – Stormarn-Süd,Schleswig-Holstein
+031 Mittelems,5,6,031,31,Mittelems,Niedersachsen
+032 Cloppenburg – Vechta,5,8,032,32,Cloppenburg – Vechta,Niedersachsen
+055 Bremen II – Bremerhaven,5,9,055,55,Bremen II – Bremerhaven,Bremen
+019 Hamburg-Altona,5,12,019,19,Hamburg-Altona,Hamburg
+018 Hamburg-Mitte,5,13,018,18,Hamburg-Mitte,Hamburg
+013 Ludwigslust-Parchim II – Nordwestmecklenburg II – Landkreis Rostock I,5,15,013,13,Ludwigslust-Parchim II – Nordwestmecklenburg II – Landkreis Rostock I,Mecklenburg-Vorpommern
+017 Mecklenburgische Seenplatte II – Landkreis Rostock III,5,16,017,17,Mecklenburgische Seenplatte II – Landkreis Rostock III,Mecklenburg-Vorpommern
+016 Mecklenburgische Seenplatte I – Vorpommern-Greifswald II,5,17,016,16,Mecklenburgische Seenplatte I – Vorpommern-Greifswald II,Mecklenburg-Vorpommern
+038 Osnabrück-Land,5,7,038,38,Osnabrück-Land,Niedersachsen
+033 Diepholz – Nienburg I,6,10,033,33,Diepholz – Nienburg I,Niedersachsen
+012 Schwerin – Ludwigslust-Parchim I – Nordwestmecklenburg I,6,14,012,12,Schwerin – Ludwigslust-Parchim I – Nordwestmecklenburg I,Mecklenburg-Vorpommern
+035 Rotenburg I – Heidekreis,6,11,035,35,Rotenburg I – Heidekreis,Niedersachsen
+054 Bremen I,6,9,054,54,Bremen I,Bremen
+023 Hamburg-Bergedorf – Harburg,6,12,023,23,Hamburg-Bergedorf – Harburg,Hamburg
+056 Prignitz – Ostprignitz-Ruppin – Havelland I,6,15,056,56,Prignitz – Ostprignitz-Ruppin – Havelland I,Brandenburg
+058 Oberhavel – Havelland II,6,16,058,58,Oberhavel – Havelland II,Brandenburg
+057 Uckermark – Barnim I,6,17,057,57,Uckermark – Barnim I,Brandenburg
+128 Steinfurt III,6,7,128,128,Steinfurt III,Nordrhein-Westfalen
+039 Stadt Osnabrück,6,8,039,39,Stadt Osnabrück,Niedersachsen
+124 Steinfurt I – Borken I,6,6,124,124,Steinfurt I – Borken I,Nordrhein-Westfalen
+126 Borken II,7,5,126,126,Borken II,Nordrhein-Westfalen
+040 Nienburg II – Schaumburg,7,9,040,40,Nienburg II – Schaumburg,Niedersachsen
+041 Stadt Hannover I,7,10,041,41,Stadt Hannover I,Niedersachsen
+043 Hannover-Land I,7,11,043,43,Hannover-Land I,Niedersachsen
+044 Celle – Uelzen,7,12,044,44,Celle – Uelzen,Niedersachsen
+076 Berlin-Pankow,7,16,076,76,Berlin-Pankow,Berlin
+077 Berlin-Reinickendorf,7,15,077,77,Berlin-Reinickendorf,Berlin
+078 Berlin-Spandau – Charlottenburg Nord,7,14,078,78,Berlin-Spandau – Charlottenburg Nord,Berlin
+059 Märkisch-Oderland – Barnim II,7,17,059,59,Märkisch-Oderland – Barnim II,Brandenburg
+129 Münster,7,7,129,129,Münster,Nordrhein-Westfalen
+134 Minden-Lübbecke I,7,8,134,134,Minden-Lübbecke I,Nordrhein-Westfalen
+051 Helmstedt – Wolfsburg,7,13,051,51,Helmstedt – Wolfsburg,Niedersachsen
+127 Coesfeld – Steinfurt II,7,6,127,127,Coesfeld – Steinfurt II,Nordrhein-Westfalen
+080 Berlin-Charlottenburg-Wilmersdorf,8,13,080,80,Berlin-Charlottenburg-Wilmersdorf,Berlin
+045 Gifhorn – Peine,8,12,045,45,Gifhorn – Peine,Niedersachsen
+042 Stadt Hannover II,8,11,042,42,Stadt Hannover II,Niedersachsen
+047 Hannover-Land II,8,10,047,47,Hannover-Land II,Niedersachsen
+046 Hameln-Pyrmont – Holzminden,8,9,046,46,Hameln-Pyrmont – Holzminden,Niedersachsen
+086 Berlin-Lichtenberg,8,16,086,86,Berlin-Lichtenberg,Berlin
+083 Berlin-Friedrichshain-Kreuzberg – Prenzlauer Berg Ost,8,15,083,83,Berlin-Friedrichshain-Kreuzberg – Prenzlauer Berg Ost,Berlin
+075 Berlin-Mitte,8,14,075,75,Berlin-Mitte,Berlin
+063 Frankfurt (Oder) – Oder-Spree,8,17,063,63,Frankfurt (Oder) – Oder-Spree,Brandenburg
+133 Herford – Minden-Lübbecke II,8,8,133,133,Herford – Minden-Lübbecke II,Nordrhein-Westfalen
+132 Bielefeld – Gütersloh II,8,7,132,132,Bielefeld – Gütersloh II,Nordrhein-Westfalen
+131 Gütersloh I,8,6,131,131,Gütersloh I,Nordrhein-Westfalen
+130 Warendorf,8,5,130,130,Warendorf,Nordrhein-Westfalen
+114 Krefeld II – Wesel II,8,4,114,114,Krefeld II – Wesel II,Nordrhein-Westfalen
+112 Kleve,8,3,112,112,Kleve,Nordrhein-Westfalen
+066 Altmark,9,13,066,66,Altmark,Sachsen-Anhalt
+048 Hildesheim,9,10,048,48,Hildesheim,Niedersachsen
+049 Salzgitter – Wolfenbüttel,9,11,049,49,Salzgitter – Wolfenbüttel,Niedersachsen
+050 Braunschweig,9,12,050,50,Braunschweig,Niedersachsen
+085 Berlin-Marzahn-Hellersdorf,9,17,085,85,Berlin-Marzahn-Hellersdorf,Berlin
+082 Berlin-Neukölln,9,16,082,82,Berlin-Neukölln,Berlin
+081 Berlin-Tempelhof-Schöneberg,9,15,081,81,Berlin-Tempelhof-Schöneberg,Berlin
+079 Berlin-Steglitz-Zehlendorf,9,14,079,79,Berlin-Steglitz-Zehlendorf,Berlin
+135 Lippe I,9,9,135,135,Lippe I,Nordrhein-Westfalen
+111 Viersen,9,2,111,111,Viersen,Nordrhein-Westfalen
+113 Wesel I,9,3,113,113,Wesel I,Nordrhein-Westfalen
+115 Duisburg I,9,4,115,115,Duisburg I,Nordrhein-Westfalen
+123 Gelsenkirchen,9,5,123,123,Gelsenkirchen,Nordrhein-Westfalen
+122 Recklinghausen II,9,6,122,122,Recklinghausen II,Nordrhein-Westfalen
+125 Bottrop – Recklinghausen III,9,7,125,125,Bottrop – Recklinghausen III,Nordrhein-Westfalen
+146 Soest,9,8,146,146,Soest,Nordrhein-Westfalen
+067 Börde – Jerichower Land,10,13,067,67,Börde – Jerichower Land,Sachsen-Anhalt
+052 Goslar – Northeim – Osterode,10,12,052,52,Goslar – Northeim – Osterode,Niedersachsen
+053 Göttingen,10,11,053,53,Göttingen,Niedersachsen
+084 Berlin-Treptow-Köpenick,10,17,084,84,Berlin-Treptow-Köpenick,Berlin
+062 Dahme-Spreewald – Teltow-Fläming III – Oberspreewald-Lausitz I,10,16,062,62,Dahme-Spreewald – Teltow-Fläming III – Oberspreewald-Lausitz I,Brandenburg
+060 Brandenburg an der Havel – Potsdam-Mittelmark I – Havelland III – Teltow-Fläming I,10,14,060,60,Brandenburg an der Havel – Potsdam-Mittelmark I – Havelland III – Teltow-Fläming I,Brandenburg
+061 Potsdam – Potsdam-Mittelmark II – Teltow-Fläming II,10,15,061,61,Potsdam – Potsdam-Mittelmark II – Teltow-Fläming II,Brandenburg
+137 Paderborn,10,9,137,137,Paderborn,Nordrhein-Westfalen
+136 Höxter – Gütersloh III – Lippe II,10,10,136,136,Höxter – Gütersloh III – Lippe II,Nordrhein-Westfalen
+142 Dortmund I,10,8,142,142,Dortmund I,Nordrhein-Westfalen
+141 Herne – Bochum II,10,7,141,141,Herne – Bochum II,Nordrhein-Westfalen
+121 Recklinghausen I,10,6,121,121,Recklinghausen I,Nordrhein-Westfalen
+117 Oberhausen – Wesel III,10,5,117,117,Oberhausen – Wesel III,Nordrhein-Westfalen
+116 Duisburg II,10,4,116,116,Duisburg II,Nordrhein-Westfalen
+110 Krefeld I – Neuss II,10,3,110,110,Krefeld I – Neuss II,Nordrhein-Westfalen
+109 Mönchengladbach,10,2,109,109,Mönchengladbach,Nordrhein-Westfalen
+068 Harz,11,12,068,68,Harz,Sachsen-Anhalt
+069 Magdeburg,11,13,069,69,Magdeburg,Sachsen-Anhalt
+071 Anhalt,11,14,071,71,Anhalt,Sachsen-Anhalt
+070 Dessau – Wittenberg,11,15,070,70,Dessau – Wittenberg,Sachsen-Anhalt
+064 Cottbus – Spree-Neiße,11,17,064,64,Cottbus – Spree-Neiße,Brandenburg
+065 Elbe-Elster – Oberspreewald-Lausitz II,11,16,065,65,Elbe-Elster – Oberspreewald-Lausitz II,Brandenburg
+145 Hamm – Unna II,11,10,145,145,Hamm – Unna II,Nordrhein-Westfalen
+147 Hochsauerlandkreis,11,11,147,147,Hochsauerlandkreis,Nordrhein-Westfalen
+108 Neuss I,11,1,108,108,Neuss I,Nordrhein-Westfalen
+106 Düsseldorf I,11,2,106,106,Düsseldorf I,Nordrhein-Westfalen
+107 Düsseldorf II,11,3,107,107,Düsseldorf II,Nordrhein-Westfalen
+118 Mülheim – Essen I,11,4,118,118,Mülheim – Essen I,Nordrhein-Westfalen
+119 Essen II,11,5,119,119,Essen II,Nordrhein-Westfalen
+139 Ennepe-Ruhr-Kreis II,11,6,139,139,Ennepe-Ruhr-Kreis II,Nordrhein-Westfalen
+140 Bochum I,11,7,140,140,Bochum I,Nordrhein-Westfalen
+143 Dortmund II,11,8,143,143,Dortmund II,Nordrhein-Westfalen
+144 Unna I,11,9,144,144,Unna I,Nordrhein-Westfalen
+089 Heinsberg,12,1,089,89,Heinsberg,Nordrhein-Westfalen
+074 Mansfeld,12,12,074,74,Mansfeld,Sachsen-Anhalt
+072 Halle,12,13,072,72,Halle,Sachsen-Anhalt
+157 Görlitz,12,18,157,157,Görlitz,Sachsen
+156 Bautzen I,12,17,156,156,Bautzen I,Sachsen
+155 Meißen,12,16,155,155,Meißen,Sachsen
+151 Nordsachsen,12,15,151,151,Nordsachsen,Sachsen
+152 Leipzig I,12,14,152,152,Leipzig I,Sachsen
+148 Siegen-Wittgenstein,12,9,148,148,Siegen-Wittgenstein,Nordrhein-Westfalen
+150 Märkischer Kreis II,12,8,150,150,Märkischer Kreis II,Nordrhein-Westfalen
+138 Hagen – Ennepe-Ruhr-Kreis I,12,7,138,138,Hagen – Ennepe-Ruhr-Kreis I,Nordrhein-Westfalen
+120 Essen III,12,6,120,120,Essen III,Nordrhein-Westfalen
+102 Wuppertal I,12,5,102,102,Wuppertal I,Nordrhein-Westfalen
+104 Mettmann I,12,4,104,104,Mettmann I,Nordrhein-Westfalen
+105 Mettmann II,12,3,105,105,Mettmann II,Nordrhein-Westfalen
+091 Rhein-Erft-Kreis I,12,2,091,91,Rhein-Erft-Kreis I,Nordrhein-Westfalen
+190 Eisenach – Wartburgkreis – Unstrut-Hainich-Kreis,12,10,190,190,Eisenach – Wartburgkreis – Unstrut-Hainich-Kreis,Thüringen
+189 Eichsfeld – Nordhausen – Kyffhäuserkreis,12,11,189,189,Eichsfeld – Nordhausen – Kyffhäuserkreis,Thüringen
+088 Aachen II,13,2,088,88,Aachen II,Nordrhein-Westfalen
+073 Burgenland – Saalekreis,13,12,073,73,Burgenland – Saalekreis,Sachsen-Anhalt
+153 Leipzig II,13,14,153,153,Leipzig II,Sachsen
+154 Leipzig-Land,13,15,154,154,Leipzig-Land,Sachsen
+159 Dresden I,13,16,159,159,Dresden I,Sachsen
+160 Dresden II – Bautzen II,13,17,160,160,Dresden II – Bautzen II,Sachsen
+163 Chemnitzer Umland – Erzgebirgskreis II,13,13,163,163,Chemnitzer Umland – Erzgebirgskreis II,Sachsen
+090 Düren,13,3,090,90,Düren,Nordrhein-Westfalen
+095 Köln III,13,4,095,95,Köln III,Nordrhein-Westfalen
+101 Leverkusen – Köln IV,13,5,101,101,Leverkusen – Köln IV,Nordrhein-Westfalen
+103 Solingen – Remscheid – Wuppertal II,13,6,103,103,Solingen – Remscheid – Wuppertal II,Nordrhein-Westfalen
+149 Olpe – Märkischer Kreis I,13,7,149,149,Olpe – Märkischer Kreis I,Nordrhein-Westfalen
+191 Jena – Sömmerda – Weimarer Land I,13,11,191,191,Jena – Sömmerda – Weimarer Land I,Thüringen
+193 Erfurt – Weimar – Weimarer Land II,13,10,193,193,Erfurt – Weimar – Weimarer Land II,Thüringen
+167 Waldeck,13,8,167,167,Waldeck,Hessen
+168 Kassel,13,9,168,168,Kassel,Hessen
+087 Aachen I,13,1,087,87,Aachen I,Nordrhein-Westfalen
+158 Sächsische Schweiz-Osterzgebirge,14,16,158,158,Sächsische Schweiz-Osterzgebirge,Sachsen
+161 Mittelsachsen,14,15,161,161,Mittelsachsen,Sachsen
+162 Chemnitz,14,13,162,162,Chemnitz,Sachsen
+100 Rheinisch-Bergischer Kreis,14,5,100,100,Rheinisch-Bergischer Kreis,Nordrhein-Westfalen
+093 Köln I,14,4,093,93,Köln I,Nordrhein-Westfalen
+094 Köln II,14,3,094,94,Köln II,Nordrhein-Westfalen
+092 Euskirchen – Rhein-Erft-Kreis II,14,2,092,92,Euskirchen – Rhein-Erft-Kreis II,Nordrhein-Westfalen
+194 Gera – Greiz – Altenburger Land,14,11,194,194,Gera – Greiz – Altenburger Land,Thüringen
+195 Saalfeld-Rudolstadt – Saale-Holzland-Kreis – Saale-Orla-Kreis,14,10,195,195,Saalfeld-Rudolstadt – Saale-Holzland-Kreis – Saale-Orla-Kreis,Thüringen
+192 Gotha – Ilm-Kreis,14,9,192,192,Gotha – Ilm-Kreis,Thüringen
+169 Werra-Meißner – Hersfeld-Rotenburg,14,8,169,169,Werra-Meißner – Hersfeld-Rotenburg,Hessen
+170 Schwalm-Eder,14,7,170,170,Schwalm-Eder,Hessen
+171 Marburg,14,6,171,171,Marburg,Hessen
+164 Erzgebirgskreis I,14,14,164,164,Erzgebirgskreis I,Sachsen
+238 Coburg,14,12,238,238,Coburg,Bayern
+196 Suhl – Schmalkalden-Meiningen – Hildburghausen – Sonneberg,15,10,196,196,Suhl – Schmalkalden-Meiningen – Hildburghausen – Sonneberg,Thüringen
+166 Vogtlandkreis,15,14,166,166,Vogtlandkreis,Sachsen
+098 Rhein-Sieg-Kreis II,15,2,098,98,Rhein-Sieg-Kreis II,Nordrhein-Westfalen
+096 Bonn,15,3,096,96,Bonn,Nordrhein-Westfalen
+097 Rhein-Sieg-Kreis I,15,4,097,97,Rhein-Sieg-Kreis I,Nordrhein-Westfalen
+099 Oberbergischer Kreis,15,5,099,99,Oberbergischer Kreis,Nordrhein-Westfalen
+172 Lahn-Dill,15,6,172,172,Lahn-Dill,Hessen
+173 Gießen,15,7,173,173,Gießen,Hessen
+174 Fulda,15,8,174,174,Fulda,Hessen
+239 Hof,15,12,239,239,Hof,Bayern
+175 Main-Kinzig – Wetterau II – Schotten,15,9,175,175,Main-Kinzig – Wetterau II – Schotten,Hessen
+248 Bad Kissingen,15,11,248,248,Bad Kissingen,Bayern
+165 Zwickau,15,13,165,165,Zwickau,Sachsen
+180 Hanau,16,9,180,180,Hanau,Hessen
+177 Wetterau I,16,8,177,177,Wetterau I,Hessen
+176 Hochtaunus,16,7,176,176,Hochtaunus,Hessen
+178 Rheingau-Taunus – Limburg,16,6,178,178,Rheingau-Taunus – Limburg,Hessen
+204 Montabaur,16,5,204,204,Montabaur,Rheinland-Pfalz
+197 Neuwied,16,4,197,197,Neuwied,Rheinland-Pfalz
+198 Ahrweiler,16,3,198,198,Ahrweiler,Rheinland-Pfalz
+247 Aschaffenburg,16,10,247,247,Aschaffenburg,Bayern
+249 Main-Spessart,16,11,249,249,Main-Spessart,Bayern
+240 Kulmbach,16,13,240,240,Kulmbach,Bayern
+236 Bamberg,16,12,236,236,Bamberg,Bayern
+202 Bitburg,16,2,202,202,Bitburg,Rheinland-Pfalz
+235 Weiden,17,13,235,235,Weiden,Bayern
+183 Frankfurt am Main II,17,9,183,183,Frankfurt am Main II,Hessen
+182 Frankfurt am Main I,17,8,182,182,Frankfurt am Main I,Hessen
+181 Main-Taunus,17,7,181,181,Main-Taunus,Hessen
+179 Wiesbaden,17,6,179,179,Wiesbaden,Hessen
+200 Mosel/Rhein-Hunsrück,17,3,200,200,Mosel/Rhein-Hunsrück,Rheinland-Pfalz
+199 Koblenz,17,4,199,199,Koblenz,Rheinland-Pfalz
+205 Mainz,17,5,205,205,Mainz,Rheinland-Pfalz
+237 Bayreuth,17,12,237,237,Bayreuth,Bayern
+250 Schweinfurt,17,11,250,250,Schweinfurt,Bayern
+251 Würzburg,17,10,251,251,Würzburg,Bayern
+203 Trier,17,2,203,203,Trier,Rheinland-Pfalz
+184 Groß-Gerau,18,7,184,184,Groß-Gerau,Hessen
+185 Offenbach,18,8,185,185,Offenbach,Hessen
+206 Worms,18,5,206,206,Worms,Rheinland-Pfalz
+209 Kaiserslautern,18,4,209,209,Kaiserslautern,Rheinland-Pfalz
+201 Kreuznach,18,3,201,201,Kreuznach,Rheinland-Pfalz
+243 Fürth,18,9,243,243,Fürth,Bayern
+242 Erlangen,18,10,242,242,Erlangen,Bayern
+244 Nürnberg-Nord,18,11,244,244,Nürnberg-Nord,Bayern
+232 Amberg,18,12,232,232,Amberg,Bayern
+234 Schwandorf,18,13,234,234,Schwandorf,Bayern
+297 Saarlouis,18,2,297,297,Saarlouis,Saarland
+186 Darmstadt,18,6,186,186,Darmstadt,Hessen
+275 Mannheim,19,6,275,275,Mannheim,Baden-Württemberg
+187 Odenwald,19,7,187,187,Odenwald,Hessen
+207 Ludwigshafen/Frankenthal,19,5,207,207,Ludwigshafen/Frankenthal,Rheinland-Pfalz
+298 St. Wendel,19,3,298,298,St. Wendel,Saarland
+208 Neustadt – Speyer,19,4,208,208,Neustadt – Speyer,Rheinland-Pfalz
+188 Bergstraße,19,8,188,188,Bergstraße,Hessen
+276 Odenwald – Tauber,19,9,276,276,Odenwald – Tauber,Baden-Württemberg
+233 Regensburg,19,13,233,233,Regensburg,Bayern
+246 Roth,19,12,246,246,Roth,Bayern
+245 Nürnberg-Süd,19,11,245,245,Nürnberg-Süd,Bayern
+241 Ansbach,19,10,241,241,Ansbach,Bayern
+296 Saarbrücken,19,2,296,296,Saarbrücken,Saarland
+274 Heidelberg,20,8,274,274,Heidelberg,Baden-Württemberg
+299 Homburg,20,3,299,299,Homburg,Saarland
+210 Pirmasens,20,4,210,210,Pirmasens,Rheinland-Pfalz
+277 Rhein-Neckar,20,6,277,277,Rhein-Neckar,Baden-Württemberg
+267 Heilbronn,20,7,267,267,Heilbronn,Baden-Württemberg
+254 Donau-Ries,20,10,254,254,Donau-Ries,Bayern
+268 Schwäbisch Hall – Hohenlohe,20,9,268,268,Schwäbisch Hall – Hohenlohe,Baden-Württemberg
+216 Ingolstadt,20,11,216,216,Ingolstadt,Bayern
+228 Landshut,20,12,228,228,Landshut,Bayern
+231 Straubing,20,13,231,231,Straubing,Bayern
+278 Bruchsal – Schwetzingen,20,5,278,278,Bruchsal – Schwetzingen,Baden-Württemberg
+227 Deggendorf,21,14,227,227,Deggendorf,Bayern
+211 Südpfalz,21,4,211,211,Südpfalz,Rheinland-Pfalz
+264 Waiblingen,21,7,264,264,Waiblingen,Baden-Württemberg
+266 Neckar-Zaber,21,6,266,266,Neckar-Zaber,Baden-Württemberg
+255 Neu-Ulm,21,9,255,255,Neu-Ulm,Bayern
+270 Aalen – Heidenheim,21,8,270,270,Aalen – Heidenheim,Baden-Württemberg
+271 Karlsruhe-Stadt,21,5,271,271,Karlsruhe-Stadt,Baden-Württemberg
+215 Fürstenfeldbruck,21,10,215,215,Fürstenfeldbruck,Bayern
+214 Freising,21,11,214,214,Freising,Bayern
+230 Rottal-Inn,21,13,230,230,Rottal-Inn,Bayern
+213 Erding – Ebersberg,21,12,213,213,Erding – Ebersberg,Bayern
+212 Altötting,22,13,212,212,Altötting,Bayern
+252 Augsburg-Stadt,22,9,252,252,Augsburg-Stadt,Bayern
+272 Karlsruhe-Land,22,5,272,272,Karlsruhe-Land,Baden-Württemberg
+265 Ludwigsburg,22,6,265,265,Ludwigsburg,Baden-Württemberg
+269 Backnang – Schwäbisch Gmünd,22,7,269,269,Backnang – Schwäbisch Gmünd,Baden-Württemberg
+263 Göppingen,22,8,263,263,Göppingen,Baden-Württemberg
+273 Rastatt,22,4,273,273,Rastatt,Baden-Württemberg
+220 München-West/Mitte,22,10,220,220,München-West/Mitte,Bayern
+217 München-Nord,22,11,217,217,München-Nord,Bayern
+218 München-Ost,22,12,218,218,München-Ost,Bayern
+229 Passau,22,14,229,229,Passau,Bayern
+259 Stuttgart II,23,8,259,259,Stuttgart II,Baden-Württemberg
+258 Stuttgart I,23,7,258,258,Stuttgart I,Baden-Württemberg
+260 Böblingen,23,6,260,260,Böblingen,Baden-Württemberg
+279 Pforzheim,23,5,279,279,Pforzheim,Baden-Württemberg
+224 Starnberg – Landsberg am Lech,23,11,224,224,Starnberg – Landsberg am Lech,Bayern
+284 Offenburg,23,4,284,284,Offenburg,Baden-Württemberg
+223 Bad Tölz-Wolfratshausen – Miesbach,23,13,223,223,Bad Tölz-Wolfratshausen – Miesbach,Bayern
+222 Rosenheim,23,14,222,222,Rosenheim,Bayern
+219 München-Süd,23,12,219,219,München-Süd,Bayern
+292 Biberach,23,9,292,292,Biberach,Baden-Württemberg
+253 Augsburg-Land,23,10,253,253,Augsburg-Land,Bayern
+221 München-Land,24,12,221,221,München-Land,Bayern
+225 Traunstein,24,14,225,225,Traunstein,Bayern
+261 Esslingen,24,8,261,261,Esslingen,Baden-Württemberg
+262 Nürtingen,24,7,262,262,Nürtingen,Baden-Württemberg
+290 Tübingen,24,6,290,290,Tübingen,Baden-Württemberg
+280 Calw,24,5,280,280,Calw,Baden-Württemberg
+283 Emmendingen – Lahr,24,4,283,283,Emmendingen – Lahr,Baden-Württemberg
+281 Freiburg,24,3,281,281,Freiburg,Baden-Württemberg
+257 Ostallgäu,24,11,257,257,Ostallgäu,Bayern
+295 Zollernalb – Sigmaringen,24,9,295,295,Zollernalb – Sigmaringen,Baden-Württemberg
+226 Weilheim,24,13,226,226,Weilheim,Bayern
+294 Ravensburg,24,10,294,294,Ravensburg,Baden-Württemberg
+291 Ulm,25,9,291,291,Ulm,Baden-Württemberg
+286 Schwarzwald-Baar,25,5,286,286,Schwarzwald-Baar,Baden-Württemberg
+285 Rottweil – Tuttlingen,25,6,285,285,Rottweil – Tuttlingen,Baden-Württemberg
+289 Reutlingen,25,7,289,289,Reutlingen,Baden-Württemberg
+282 Lörrach – Müllheim,25,3,282,282,Lörrach – Müllheim,Baden-Württemberg
+288 Waldshut,25,4,288,288,Waldshut,Baden-Württemberg
+256 Oberallgäu,25,11,256,256,Oberallgäu,Bayern
+287 Konstanz,25,8,287,287,Konstanz,Baden-Württemberg
+293 Bodensee,25,10,293,293,Bodensee,Baden-Württemberg
