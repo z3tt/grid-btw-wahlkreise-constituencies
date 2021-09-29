@@ -48,7 +48,7 @@ Erstellt mit Hilfe des [Geo Grid Designer](https://hafen.github.io/grid-designer
 
 ***
 
-#### Creative Commons Attribution 4.0 International Licens (CC BY-NC-SA 4.0)
+#### Creative Commons Attribution 4.0 International Licens (CC BY 4.0)
 <div style="width:300px; height:200px">
 <img src=https://i.creativecommons.org/l/by/4.0/88x31.png alt="" height="42">
 </div>
